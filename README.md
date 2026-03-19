@@ -49,7 +49,7 @@ Get a pro-grade, portable **Wan2GP** environment in minutes. This installer is p
 | **Python** | 3.10.11 | 3.10.11 | 3.10.11 | 3.11.9 |
 | **PyTorch** | 2.6.0 | 2.6.0 | 2.7.1 | 2.10.0 |
 | **CUDA** | 12.6 | 12.6 | 12.8 | 13.0 |
-| **SageAttention** | 1.0.1 | 2.1.1 | 2.2.0 | 2.2.0 |
+| **SageAttention** | 1.0.6 | 2.1.1 | 2.2.0 | 2.2.0 |
 | **FlashAttention** | None | None | 2.7.4 | 2.8.3 |
 | **Triton** | < v3.3 | < v3.3 | < v3.4 | Latest |
 
