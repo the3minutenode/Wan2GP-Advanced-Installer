@@ -1,10 +1,20 @@
 ## ⚡ Wan2GP Advanced Installer
 
-**Important Note on Timing:** The installation and environment setup are remarkably fast - typically around **5 minutes**. **HOWEVER**, the first time you run video generation, it will take **MUCH LONGER**. This is because the system must download all the necessary AI models, which can take **15 minutes** or more depending on your internet speed. If it feels stuck, **check the CMD window** for download progress.
-
 Get a pro-grade, portable **Wan2GP** environment in minutes. This installer is precision-engineered for **NVIDIA RTX30XX, RTX 40XX and 50XX** series GPUs, leveraging the latest CUDA kernels and specialized attention mechanisms for maximum video generation speed.
 
 ⚠️ **Official Version:** This is the original repository from `the3minutenode`. If you are viewing this elsewhere, it is a fork and may not be verified.
+
+[![GitHub Release](https://img.shields.io/github/v/release/the3minutenode/Wan2GP-Advanced-Installer)](https://github.com/the3minutenode/Wan2GP-Advanced-Installer/releases/latest)
+[![GitHub Release Date](https://img.shields.io/github/release-date/the3minutenode/Wan2GP-Advanced-Installer)](https://github.com/the3minutenode/Wan2GP-Advanced-Installer/releases/latest)
+[![GitHub last commit](https://img.shields.io/github/last-commit/the3minutenode/Wan2GP-Advanced-Installer)](https://github.com/the3minutenode/Wan2GP-Advanced-Installer/releases/latest)
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/the3minutenode/Wan2GP-Advanced-Installer/total)](https://github.com/the3minutenode/Wan2GP-Advanced-Installer/releases/latest)
+
+[![Discord](https://img.shields.io/discord/1431137394056233030?label=discord&logo=discord&logoColor=white)](https://discord.com/invite/wDn7cj68gm)
+[![Static Badge](https://img.shields.io/badge/discord-2662%20total-brightgreen?logo=discord&logoColor=white)](https://discord.com/invite/wDn7cj68gm)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8ZKAaWoHYLy58Y6dmypHqg?label=YouTube%20Subscribers)](https://www.youtube.com/@The3MinuteNode)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC8ZKAaWoHYLy58Y6dmypHqg?label=YouTube%20Views)](https://www.youtube.com/@The3MinuteNode)
+
+**Important Note on Timing:** The installation and environment setup are remarkably fast - typically around **5 minutes**. **HOWEVER**, the first time you run video generation, it will take **MUCH LONGER**. This is because the system must download all the necessary AI models, which can take **15 minutes** or more depending on your internet speed. If it feels stuck, **check the CMD window** for download progress.
 
 ### 🎥 What is Wan2GP?
 **Wan2GP** is a specialized, high-performance AI video generation suite. While ComfyUI is a versatile "all-in-one" node-based tool, **Wan2GP** is built from the ground up to be a dedicated "Video Engine." 
@@ -27,7 +37,7 @@ Get a pro-grade, portable **Wan2GP** environment in minutes. This installer is p
 ### 🛠️ Quick Start
 
 1.  **Prerequisites:** Ensure you have [Git for Windows](https://git-scm.com/) and [Curl](https://curl.se/) installed.
-2.  **Download:** Choose the script that matches your hardware:
+2.  **Download:** **[Download the Latest Release](https://github.com/the3minutenode/Wan2GP-Advanced-Installer/releases/latest)** Choose the script that matches your hardware.
 3.  **Run Installer:** Double-click your chosen `.bat` file. It will automatically download the embedded Python environment, clone the **Wan2GP** repository, and install all dependencies.
 4.  **Launch:** Once the setup is complete, a `run.bat` will be generated in the main folder. Double-click `run.bat` to start generating.
 
@@ -50,5 +60,5 @@ Get a pro-grade, portable **Wan2GP** environment in minutes. This installer is p
 
 ### 🆘 Support & Updates
 
-* **Having Issues?** If the script fails or you hit an error, please **[Open an Issue Here](https://github.com/the3minutenode/ComfyUI-Advanced-Installer/issues)** so the community can help.
+* **Having Issues?** If the script fails or you hit an error, please **[Open an Issue Here](https://github.com/the3minutenode/Wan2GP-Advanced-Installer/issues)** so the community can help.
 * **Join the Efficiency Movement:** [YouTube](https://www.youtube.com/@The3MinuteNode) | [Discord](https://discord.gg/wDn7cj68gm) | [Support the Project](https://www.paypal.com/donate/?hosted_button_id=EF3QDPEWK359N)
