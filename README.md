@@ -56,7 +56,7 @@ Get a pro-grade, portable **Wan2GP** environment in minutes. This installer is p
 ## ⚠️ Requirements
 
 * **OS:** Windows 10/11.
-* **GPU:** NVIDIA RTX 20XX, RTX 30XX, RTX 40XX or 50XX series (required for these specific hardware-accelerated kernels).
+* **GPU:** NVIDIA RTX 20XX, 30XX, 40XX or 50XX series (required for these specific hardware-accelerated kernels).
 * **Storage:** Sufficient space for the Python environment and model weights.
 
 ## 🆘 Support & Updates
