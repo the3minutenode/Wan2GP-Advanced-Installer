@@ -1,6 +1,6 @@
 @echo off&&cd /d "%~dp0"
 
-Title The 3-Minute Node Wan2GP Advanced Installer v0.1 (RTX 50XX Only)
+Title The 3-Minute Node Wan2GP Advanced Installer v0.2 (RTX 50XX Only)
 :: Specialized for Python 3.11 / CUDA 13.0 / PyTorch 2.10.0
 
 setlocal enabledelayedexpansion
@@ -40,9 +40,10 @@ del python_libs.zip
 echo %CYAN%[+] Configuring Python Paths...%RESET%
 :: Create a fresh ._pth file to ensure site-packages and local dirs are mapped
 (
-  echo .
-  echo ../Wan2GP
   echo python311.zip
+  echo .
+  echo Lib/site-packages
+  echo ../Wan2GP
   echo import site
 ) > "%EMBED_DIR%\python311._pth"
 
