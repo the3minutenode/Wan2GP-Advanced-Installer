@@ -10,7 +10,7 @@ Get a pro-grade, portable **Wan2GP** environment in minutes. This installer is p
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/the3minutenode/Wan2GP-Advanced-Installer/total)](https://github.com/the3minutenode/Wan2GP-Advanced-Installer/releases/latest)
 
 [![Discord](https://img.shields.io/discord/1431137394056233030?label=discord&logo=discord&logoColor=white)](https://discord.com/invite/wDn7cj68gm)
-[![Static Badge](https://img.shields.io/badge/discord-3400%20total-brightgreen?logo=discord&logoColor=white)](https://discord.com/invite/wDn7cj68gm)
+[![Static Badge](https://img.shields.io/badge/discord-3819%20total-brightgreen?logo=discord&logoColor=white)](https://discord.com/invite/wDn7cj68gm)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8ZKAaWoHYLy58Y6dmypHqg?label=YouTube%20Subscribers)](https://www.youtube.com/@The3MinuteNode)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC8ZKAaWoHYLy58Y6dmypHqg?label=YouTube%20Views)](https://www.youtube.com/@The3MinuteNode)
 
