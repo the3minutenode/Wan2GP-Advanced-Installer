@@ -78,8 +78,7 @@ echo %CYAN%[+] Making run.bat...%RESET%
 (
 echo @echo off
 echo cd Wan2GP
-echo start /b cmd /c "timeout /t 3 /nobreak >nul & start "" "http://127.0.0.1:7860""
-echo ..\python_embeded\python.exe -s -W ignore::FutureWarning wgp.py
+echo ..\python_embeded\python.exe -s -W ignore::FutureWarning wgp.py --open-browser
 echo pause
 ) > run.bat
 
