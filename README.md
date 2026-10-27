@@ -9,11 +9,6 @@ Get a pro-grade, portable **Wan2GP** environment in minutes. This installer is p
 [![GitHub last commit](https://img.shields.io/github/last-commit/the3minutenode/Wan2GP-Advanced-Installer)](https://github.com/the3minutenode/Wan2GP-Advanced-Installer/releases/latest)
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/the3minutenode/Wan2GP-Advanced-Installer/total)](https://github.com/the3minutenode/Wan2GP-Advanced-Installer/releases/latest)
 
-[![Discord](https://img.shields.io/discord/1431137394056233030?label=discord&logo=discord&logoColor=white)](https://discord.com/invite/wDn7cj68gm)
-[![Static Badge](https://img.shields.io/badge/discord-4346%20total-brightgreen?logo=discord&logoColor=white)](https://discord.com/invite/wDn7cj68gm)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8ZKAaWoHYLy58Y6dmypHqg?label=YouTube%20Subscribers)](https://www.youtube.com/@The3MinuteNode)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC8ZKAaWoHYLy58Y6dmypHqg?label=YouTube%20Views)](https://www.youtube.com/@The3MinuteNode)
-
 **Important Note on Timing:** The installation and environment setup are remarkably fast - typically around **5 minutes**. **HOWEVER**, the first time you run video generation, it will take **MUCH LONGER**. This is because the system must download all the necessary AI models, which can take **15 minutes** or more depending on your internet speed. If it feels stuck, **check the CMD window** for download progress.
 
 ## 🎥 What is Wan2GP?
